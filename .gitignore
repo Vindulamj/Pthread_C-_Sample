@@ -1,3 +1,6 @@
+# Prerequisites
+*.d
+
 # Compiled Object files
 *.slo
 *.lo
@@ -27,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+#other
+*.DS_Store
